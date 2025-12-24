@@ -61,7 +61,7 @@ bot.run(TOKEN)
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/discord-impersonation-bot.git
+git clone https://github.com/mrbiscuitoliva/discord-impersonation-bot.git
 cd discord-impersonation-bot
 ```
 
