@@ -155,7 +155,3 @@ discord-impersonation-bot/
 ## ⚡ Credits
 
 Developed by **mrbiscuitoliva** — inspired to create safer Discord communities.
-
-
-Do you want me to do that?
-```
