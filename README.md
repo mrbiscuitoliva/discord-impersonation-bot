@@ -1,8 +1,3 @@
-Perfect! Ibrahim — I can create a **detailed, long, and professional README.md** for your Discord impersonation bot. It will be **fully in Markdown** and easy to read.
-
-Here’s a complete example you can copy into your `README.md`:
-
-````markdown
 # Discord Impersonation Detection Bot
 
 A **Discord bot** designed to protect servers from impersonators and scammers.  
